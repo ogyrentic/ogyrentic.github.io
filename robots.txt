@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ogyrentic.github.io/sitemap
+Sitemap: https://ogyrentic.github.io/app/sitemap
+Sitemap: https://ogyrentic.github.io/assets/sitemap
+Sitemap: https://ogyrentic.github.io/css/sitemap
+Sitemap: https://ogyrentic.github.io/includes/sitemap
+Sitemap: https://ogyrentic.github.io/item/sitemap
+Sitemap: https://ogyrentic.github.io/src/sitemap

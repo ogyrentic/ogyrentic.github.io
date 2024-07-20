@@ -1,1 +1,0 @@
-# ogyrentic.github.io
